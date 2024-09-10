@@ -1,0 +1,17 @@
+{*
+    margin: 0;
+padding:0;
+}
+
+body{ 
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    background-color: rgb(255, 226, 182);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+
+
+
+    .login_conteiner{
+        background-color: rgba(101, green, blue, alpha);
